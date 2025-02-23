@@ -6,9 +6,13 @@ HEAD
 
 📌 Features
 ✅ Displays a list of robot friends with names and emails
+
 ✅ Dynamic search functionality
+
 ✅ Responsive & modern UI
+
 ✅ Built using React & API integration
+
 
 🛠️ Technologies Used
 React.js ⚛️

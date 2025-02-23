@@ -5,6 +5,7 @@ HEAD
 
 
 📌 Features
+
 ✅ Displays a list of robot friends with names and emails
 
 ✅ Dynamic search functionality
@@ -15,45 +16,80 @@ HEAD
 
 
 🛠️ Technologies Used
+
 React.js ⚛️
+
 JavaScript (ES6+)
+
 CSS3 🎨
+
 API integration (robohash.org & JSONPlaceholder)
 
+
 🔧 Installation & Usage
+
 1️⃣ Clone the repository
+
 sh
+
 Copy
+
 Edit
+
 git clone https://github.com/OmniaYehiia/RoboFriends.git
+
 cd RoboFriends
+
 2️⃣ Install dependencies
+
 sh
+
 Copy
+
 Edit
+
 npm install
+
 3️⃣ Run the project locally
+
 sh
+
 Copy
+
 Edit
+
 npm start
+
 The app will run on localhost:3000
 
+
 🚀 Deploy on GitHub Pages
+
 sh
+
 Copy
+
 Edit
+
 npm run deploy
+
 Check the live version here
 
+https://omniayehiia.github.io/RoboFriends/
+
 🙌 Contributing
+
 Feel free to fork the repo and create a pull request with your enhancements! 🚀
 
 
+
 🔗 LinkedIn 
+
 https://www.linkedin.com/in/omnia-yehia-74765b20a/
 
+
 🎯 If you like this project, don't forget to ⭐ the repo! 🌟
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

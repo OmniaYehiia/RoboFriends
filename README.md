@@ -1,5 +1,4 @@
-HEAD
-🦾 RoboFriends
+#🦾 RoboFriends
 
 RoboFriends is a React application that fetches user data and displays them as robotic avatars.
 Users can dynamically search for robots by typing names in the search bar.
